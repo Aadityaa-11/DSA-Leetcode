@@ -8,7 +8,7 @@ A binary tree's maximum depth is the number of nodes along the longest path from
  ```
 Example 1:
 Input: root = [3,9,20,null,null,15,7]
-![Tree Diagram](Screenshot_21-7-2025_123212_leetcode.com.jpeg)
+![Tree Diagram](imgaes/Screenshot_21-7-2025_123212_leetcode.com.jpeg)
 Output: 3
 ```
 
