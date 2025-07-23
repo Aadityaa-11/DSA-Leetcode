@@ -6,7 +6,7 @@ has both p and q as descendants (where we allow a node to be a descendant of its
 ``` 
 Example 1:
 ```
-![tree image](`https://assets.leetcode.com/uploads/2018/12/14/binarytree.png`)
+![tree image](https://assets.leetcode.com/uploads/2018/12/14/binarytree.png)
 
 ```
 Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1
@@ -17,7 +17,7 @@ Explanation: The LCA of nodes 5 and 1 is 3.
 ```
 Example 2:
 ```
-![tree image](`https://assets.leetcode.com/uploads/2018/12/14/binarytree.png`)
+![tree image](https://assets.leetcode.com/uploads/2018/12/14/binarytree.png)
 
 ```
 Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 4
