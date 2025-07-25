@@ -7,7 +7,7 @@ A root-to-leaf path is a path starting from the root and ending at any leaf node
  ```
 Example 1:
 ```
-![Tree Diagram](pathsum2.jpg)
+![Tree Diagram]([pathsum2.jpg](https://github.com/Aadityaa-11/DSA-Leetcode/blob/main/113.%20Path%20Sum%20II/Images/pathsum2.jpg))
 ```
 Input: root = [5,4,8,11,null,13,4,7,2,null,null,5,1], targetSum = 22
 Output: [[5,4,11,2],[5,8,4,5]]
