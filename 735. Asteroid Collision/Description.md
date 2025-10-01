@@ -1,5 +1,5 @@
 ## 735. Asteroid Collision
-Medium
+## Medium
 
 We are given an array asteroids of integers representing asteroids in a row. The indices of the asteriod in the array represent their relative position in space.
 
