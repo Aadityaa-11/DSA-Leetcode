@@ -15,10 +15,23 @@ public:
         return temp.size();
 
     }
+
+    int brute_force1(vector<int>& nums){
+        
+        for(int i = 1 ; i<nums.size() ; i++){
+            if(nums[i] == nums[i-1]){
+                nums.erase(nums.begin() + i);
+                i--;
+            }
+        }
+        return nums.size();
+    }
     int removeDuplicates(vector<int>& nums) { 
 
-        int ans = brute_force(nums);
-        return ans;
+        // int ans = brute_force(nums);
+        // return ans;
+
+        return brute_force1(nums);
 
         // // TWO POINTER APPROACH 
         // int j = 0; // j is the unique elements first element of array is unique 
