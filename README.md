@@ -9,6 +9,7 @@ add new folder
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -35,4 +36,8 @@ add new folder
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
