@@ -20,6 +20,7 @@ add new folder
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -41,4 +42,12 @@ add new folder
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
