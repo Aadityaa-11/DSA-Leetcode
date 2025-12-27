@@ -10,6 +10,7 @@ add new folder
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ add new folder
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -38,6 +40,7 @@ add new folder
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -49,6 +52,7 @@ add new folder
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
