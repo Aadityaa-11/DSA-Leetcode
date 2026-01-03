@@ -14,6 +14,7 @@ add new folder
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0735-asteroid-collision](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
@@ -61,9 +62,14 @@ add new folder
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
