@@ -11,6 +11,7 @@ add new folder
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -20,6 +21,7 @@ add new folder
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -72,4 +74,8 @@ add new folder
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0735-asteroid-collision) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
