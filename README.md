@@ -9,6 +9,7 @@ add new folder
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0053-maximum-subarray) |
@@ -26,6 +27,7 @@ add new folder
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Aadityaa-11/DSA-Leetcode/tree/master/0268-missing-number) |
